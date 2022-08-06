@@ -70,7 +70,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @RiZoeLX**
+**© @Dynamite_101**
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @RiZoeLX**
+**© @Dynamite_101**
 """
 
 
@@ -101,7 +101,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @RiZoeLX
+**© @Dynamite_101
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @Dynamite_101**
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @RiZoeLX**
+**© @Dynamite_101**
 """
 
 
@@ -139,7 +139,7 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @RiZoeLX **
+**© @Dynamite_101 **
 """
 
 help_menu = f"""
@@ -157,5 +157,5 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @Dynamite_101**
 """
