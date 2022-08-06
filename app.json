@@ -1,7 +1,7 @@
 {
-      "name": "SpamX - RiZoeL",
+      "name": "FutaroX - Karan",
       "description": "A Pyrogram Based Span Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "logo": "https://te.legra.ph/file/560c03234290d12336097.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,9 +9,9 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/karanveersinghA3/SpamX",
+  "website": "https://github.com/karanveersinghA3/SpamX",
+  "success_url": "https://t.me/FUTARO_UESUGI17",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
